@@ -1,7 +1,7 @@
 https://template.nuxtjs.org https://codesandbox.io/s/github/nuxt/codesandbox-nuxt/tree/master/ 302!
-https://bug.nuxtjs.org https://cmty.app/nuxt/issues/new?type=bug-report&repo=nuxt.js 302!
-https://question.nuxtjs.org https://cmty.app/nuxt/issues/new?type=question&repo=nuxt.js 302!
-https://feature.nuxtjs.org https://cmty.app/nuxt/issues/new?type=feature-request&repo=nuxt.js 302!
+https://bug.nuxtjs.org https://github.com/nuxt/nuxt.js/issues/new?assignees=&labels=bug&template=bug-report.md&title= 302!
+https://question.nuxtjs.org https://discord.gg/ps2h6QT 302!
+https://feature.nuxtjs.org https://github.com/nuxt/nuxt.js/issues/new?assignees=&labels=feature&template=feature-request.md&title= 302!
 https://gh.nuxtjs.org https://github.com/nuxt/nuxt.js 302!
 https://github.nuxtjs.org https://github.com/nuxt/nuxt.js 302!
 https://twitter.nuxtjs.org https://twitter.com/nuxt_js 302!
