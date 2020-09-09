@@ -1,19 +1,19 @@
 # https://docs.netlify.com/routing/redirects/#syntax-for-the-redirects-file
 
 # Generic
-https://template.nuxtjs.org https://codesandbox.io/s/github/nuxt/codesandbox-nuxt/tree/master/ 302!
-https://bug.nuxtjs.org https://github.com/nuxt/nuxt.js/issues/new?assignees=&labels=bug&template=bug-report.md&title= 302!
-https://question.nuxtjs.org https://discord.gg/ps2h6QT 302!
-https://feature.nuxtjs.org https://github.com/nuxt/nuxt.js/issues/new?assignees=&labels=feature&template=feature-request.md&title= 302!
-https://gh.nuxtjs.org https://github.com/nuxt/nuxt.js 302!
-https://github.nuxtjs.org https://github.com/nuxt/nuxt.js 302!
-https://twitter.nuxtjs.org https://twitter.com/nuxt_js 302!
-https://discord.nuxtjs.org https://discord.gg/ps2h6QT 302!
-https://awesome.nuxtjs.org https://github.com/nuxt-community/awesome-nuxt 302!
-https://oc.nuxtjs.org https://opencollective.com/nuxtjs 302!
-https://opencollective.nuxtjs.org https://opencollective.com/nuxtjs 302!
-https://beanie.nuxtjs.org https://gumroad.com/l/nuxt_beanie 302!
-https://cmty.nuxtjs.org https://cmty.app/nuxt/issues/new?repo=nuxt.js 302!
+https://template.nuxtjs.org                     https://codesandbox.io/s/github/nuxt/codesandbox-nuxt/tree/master/ 302!
+https://bug.nuxtjs.org                          https://github.com/nuxt/nuxt.js/issues/new?assignees=&labels=bug&template=bug-report.md&title= 302!
+https://question.nuxtjs.org                     https://discord.gg/ps2h6QT 302!
+https://feature.nuxtjs.org                      https://github.com/nuxt/nuxt.js/issues/new?assignees=&labels=feature&template=feature-request.md&title= 302!
+https://gh.nuxtjs.org                           https://github.com/nuxt/nuxt.js 302!
+https://github.nuxtjs.org                       https://github.com/nuxt/nuxt.js 302!
+https://twitter.nuxtjs.org                      https://twitter.com/nuxt_js 302!
+https://discord.nuxtjs.org                      https://discord.gg/ps2h6QT 302!
+https://awesome.nuxtjs.org                      https://github.com/nuxt-community/awesome-nuxt 302!
+https://oc.nuxtjs.org                           https://opencollective.com/nuxtjs 302!
+https://opencollective.nuxtjs.org               https://opencollective.com/nuxtjs 302!
+https://beanie.nuxtjs.org                       https://gumroad.com/l/nuxt_beanie 302!
+https://cmty.nuxtjs.org                         https://cmty.app/nuxt/issues/new?repo=nuxt.js 302!
 
 # Nuxt config
 https://go.nuxtjs.dev/config-build              https://nuxtjs.org/api/configuration-build
