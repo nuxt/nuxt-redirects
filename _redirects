@@ -16,30 +16,30 @@ https://beanie.nuxtjs.org                       https://gumroad.com/l/nuxt_beani
 https://cmty.nuxtjs.org                         https://cmty.app/nuxt/issues/new?repo=nuxt.js 302!
 
 # Nuxt config
-https://go.nuxtjs.dev/config-build              https://nuxtjs.org/api/configuration-build
-https://go.nuxtjs.dev/config-components         https://nuxtjs.org/api/configuration-components
-https://go.nuxtjs.dev/config-css                https://nuxtjs.org/examples/global-css
-https://go.nuxtjs.dev/config-head               https://nuxtjs.org/guides/features/meta-tags-seo
-https://go.nuxtjs.dev/config-modules            https://nuxtjs.org/guide/modules
-https://go.nuxtjs.dev/config-plugins            https://nuxtjs.org/guide/plugins
-https://go.nuxtjs.dev/config-ssr                https://nuxtjs.org/api/configuration-mode
-https://go.nuxtjs.dev/config-target             https://nuxtjs.org/guides/configuration-glossary/configuration-target
+https://go.nuxtjs.dev/config-build              https://nuxtjs.org/api/configuration-build 302!
+https://go.nuxtjs.dev/config-components         https://nuxtjs.org/api/configuration-components 302!
+https://go.nuxtjs.dev/config-css                https://nuxtjs.org/examples/global-css 302!
+https://go.nuxtjs.dev/config-head               https://nuxtjs.org/guides/features/meta-tags-seo 302!
+https://go.nuxtjs.dev/config-modules            https://nuxtjs.org/guide/modules 302!
+https://go.nuxtjs.dev/config-plugins            https://nuxtjs.org/guide/plugins 302!
+https://go.nuxtjs.dev/config-ssr                https://nuxtjs.org/api/configuration-mode 302!
+https://go.nuxtjs.dev/config-target             https://nuxtjs.org/guides/configuration-glossary/configuration-target 302!
 
 # Integrations
-https://go.nuxtjs.dev/axios                     https://axios.nuxtjs.org
-https://go.nuxtjs.dev/bootstrap                 https://bootstrap-vue.js.org
-https://go.nuxtjs.dev/buefy                     https://buefy.org
-https://go.nuxtjs.dev/chakra                    https://github.com/chakra-ui/chakra-ui-vue/tree/develop/packages/nuxt-chakra
-https://go.nuxtjs.dev/content                   https://content.nuxtjs.org
-https://go.nuxtjs.dev/emotion                   https://github.com/nuxt-community/emotion-module
-https://go.nuxtjs.dev/eslint                    https://github.com/nuxt-community/eslint-module
-https://go.nuxtjs.dev/pwa                       https://pwa.nuxtjs.org
-https://go.nuxtjs.dev/stylelint                 https://github.com/nuxt-community/stylelint-module
-https://go.nuxtjs.dev/tailwindcss               https://github.com/nuxt-community/nuxt-tailwindcss
-https://go.nuxtjs.dev/typescript                https://typescript.nuxtjs.org
-https://go.nuxtjs.dev/vuetify                   https://github.com/nuxt-community/vuetify-module
+https://go.nuxtjs.dev/axios                     https://axios.nuxtjs.org 302!
+https://go.nuxtjs.dev/bootstrap                 https://bootstrap-vue.js.org 302!
+https://go.nuxtjs.dev/buefy                     https://buefy.org 302!
+https://go.nuxtjs.dev/chakra                    https://github.com/chakra-ui/chakra-ui-vue/tree/develop/packages/nuxt-chakra 302!
+https://go.nuxtjs.dev/content                   https://content.nuxtjs.org 302!
+https://go.nuxtjs.dev/emotion                   https://github.com/nuxt-community/emotion-module 302!
+https://go.nuxtjs.dev/eslint                    https://github.com/nuxt-community/eslint-module 302!
+https://go.nuxtjs.dev/pwa                       https://pwa.nuxtjs.org 302!
+https://go.nuxtjs.dev/stylelint                 https://github.com/nuxt-community/stylelint-module 302!
+https://go.nuxtjs.dev/tailwindcss               https://github.com/nuxt-community/nuxt-tailwindcss 302!
+https://go.nuxtjs.dev/typescript                https://typescript.nuxtjs.org 302!
+https://go.nuxtjs.dev/vuetify                   https://github.com/nuxt-community/vuetify-module 302!
 
 # Well known module configs
-https://go.nuxtjs.dev/config-content            https://content.nuxtjs.org/configuration
-https://go.nuxtjs.dev/config-axios              https://axios.nuxtjs.org/options
-https://go.nuxtjs.dev/config-vuetify            https://github.com/nuxt-community/vuetify-module#options
+https://go.nuxtjs.dev/config-content            https://content.nuxtjs.org/configuration 302!
+https://go.nuxtjs.dev/config-axios              https://axios.nuxtjs.org/options 302!
+https://go.nuxtjs.dev/config-vuetify            https://github.com/nuxt-community/vuetify-module#options 302!
