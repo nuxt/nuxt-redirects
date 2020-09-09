@@ -26,11 +26,11 @@ https://go.nuxtjs.dev/config-ssr                https://nuxtjs.org/api/configura
 https://go.nuxtjs.dev/config-target             https://nuxtjs.org/guides/configuration-glossary/configuration-target
 
 # Integrations
-https://go.nuxtjs.dev/axios                     https://axios.nuxtjs.org/usage
+https://go.nuxtjs.dev/axios                     https://axios.nuxtjs.org
 https://go.nuxtjs.dev/bootstrap                 https://bootstrap-vue.js.org
-https://go.nuxtjs.dev/buefy                     https://buefy.github.io
+https://go.nuxtjs.dev/buefy                     https://buefy.org
 https://go.nuxtjs.dev/chakra                    https://github.com/chakra-ui/chakra-ui-vue/tree/develop/packages/nuxt-chakra
-https://go.nuxtjs.dev/content                   https://content.nuxtjs.org/
+https://go.nuxtjs.dev/content                   https://content.nuxtjs.org
 https://go.nuxtjs.dev/emotion                   https://github.com/nuxt-community/emotion-module
 https://go.nuxtjs.dev/eslint                    https://github.com/nuxt-community/eslint-module
 https://go.nuxtjs.dev/pwa                       https://pwa.nuxtjs.org
@@ -42,4 +42,4 @@ https://go.nuxtjs.dev/vuetify                   https://github.com/nuxt-communit
 # Well known module configs
 https://go.nuxtjs.dev/config-content            https://content.nuxtjs.org/configuration
 https://go.nuxtjs.dev/config-axios              https://axios.nuxtjs.org/options
-https://go.nuxtjs.dev/config-vuetify            https://github.com/nuxt-community/vuetify-module
+https://go.nuxtjs.dev/config-vuetify            https://github.com/nuxt-community/vuetify-module#options
