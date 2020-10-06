@@ -43,6 +43,7 @@ https://go.nuxtjs.dev/vuetify                   https://github.com/nuxt-communit
 
 # Well known module configs
 https://go.nuxtjs.dev/config-content            https://content.nuxtjs.org/configuration 302!
+https://go.nuxtjs.dev/content-config            https://content.nuxtjs.org/configuration 302!
 https://go.nuxtjs.dev/config-axios              https://axios.nuxtjs.org/options 302!
 https://go.nuxtjs.dev/config-vuetify            https://github.com/nuxt-community/vuetify-module#options 302!
 
