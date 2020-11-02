@@ -27,6 +27,8 @@ https://go.nuxtjs.dev/config-modules            https://nuxtjs.org/guides/direct
 https://go.nuxtjs.dev/config-plugins            https://nuxtjs.org/guides/configuration-glossary/configuration-plugins 302!
 https://go.nuxtjs.dev/config-ssr                https://nuxtjs.org/guides/configuration-glossary/configuration-ssr 302!
 https://go.nuxtjs.dev/config-target             https://nuxtjs.org/guides/configuration-glossary/configuration-target 302!
+https://go.nuxtjs.dev/config-ssr                https://nuxtjs.org/docs/2.x/configuration-glossary/configuration-ssr 302!
+https://go.nuxtjs.dev/ssr-mode                  https://nuxtjs.org/docs/2.x/configuration-glossary/configuration-ssr 302!
 
 # Integrations
 https://go.nuxtjs.dev/axios                     https://axios.nuxtjs.org 302!
