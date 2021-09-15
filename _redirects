@@ -64,7 +64,7 @@ https://go.nuxtjs.dev/stackblitz                https://stackblitz.com/github/nu
 https://id.nuxtjs.org/* https://nuxtjs.org/:splat 302!
 https://ko.nuxtjs.org/* https://nuxtjs.org/:splat 302!
 https://ru.nuxtjs.org/* https://nuxtjs.org/:splat 302!
-https://fr.nuxtjs.org/* https://nuxtjs.org/:splat 302!
+https://fr.nuxtjs.org/* https://nuxtjs.org/fr/:splat 302!
 https://zh.nuxtjs.org/* https://nuxtjs.org/:splat 302!
-https://ja.nuxtjs.org/* https://nuxtjs.org/:splat 302!
+https://ja.nuxtjs.org/* https://nuxtjs.org/ja/:splat 302!
 https://es.nuxtjs.org/* https://nuxtjs.org/:splat 302!
