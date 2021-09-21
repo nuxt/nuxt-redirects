@@ -16,18 +16,18 @@ https://beanie.nuxtjs.org                       https://gumroad.com/l/nuxt_beani
 https://csb.nuxtjs.org                          https://codesandbox.io/s/github/nuxt/codesandbox-nuxt/tree/master/ 302!
 https://sb.nuxtjs.org                           https://stackblitz.com/github/nuxt/starter/tree/stackblitz 302!
 
-https://go.nuxtjs.dev/contribute                https://nuxtjs.org/guide/contribution-guide 302!
+https://go.nuxtjs.dev/contribute                https://nuxtjs.org/contribution-guide 302!
 https://go.nuxtjs.dev/static-target             https://nuxtjs.org/blog/going-full-static 302!
 
 # Nuxt config
-https://go.nuxtjs.dev/config-build              https://nuxtjs.org/guides/configuration-glossary/configuration-build 302!
-https://go.nuxtjs.dev/config-components         https://nuxtjs.org/guides/configuration-glossary/configuration-components 302!
-https://go.nuxtjs.dev/config-css                https://nuxtjs.org/guides/configuration-glossary/configuration-css 302!
-https://go.nuxtjs.dev/config-head               https://nuxtjs.org/guides/features/meta-tags-seo 302!
-https://go.nuxtjs.dev/config-modules            https://nuxtjs.org/guides/directory-structure/modules 302!
-https://go.nuxtjs.dev/config-plugins            https://nuxtjs.org/guides/configuration-glossary/configuration-plugins 302!
-https://go.nuxtjs.dev/config-ssr                https://nuxtjs.org/guides/configuration-glossary/configuration-ssr 302!
-https://go.nuxtjs.dev/config-target             https://nuxtjs.org/guides/configuration-glossary/configuration-target 302!
+https://go.nuxtjs.dev/config-build              https://nuxtjs.org/docs/2.x/configuration-glossary/configuration-build 302!
+https://go.nuxtjs.dev/config-components         https://nuxtjs.org/docs/2.x/configuration-glossary/configuration-components 302!
+https://go.nuxtjs.dev/config-css                https://nuxtjs.org/docs/2.x/configuration-glossary/configuration-css 302!
+https://go.nuxtjs.dev/config-head               https://nuxtjs.org/docs/2.x/features/meta-tags-seo 302!
+https://go.nuxtjs.dev/config-modules            https://nuxtjs.org/docs/2.x/directory-structure/modules 302!
+https://go.nuxtjs.dev/config-plugins            https://nuxtjs.org/docs/2.x/configuration-glossary/configuration-plugins 302!
+https://go.nuxtjs.dev/config-ssr                https://nuxtjs.org/docs/2.x/configuration-glossary/configuration-ssr 302!
+https://go.nuxtjs.dev/config-target             https://nuxtjs.org/docs/2.x/configuration-glossary/configuration-target 302!
 https://go.nuxtjs.dev/config-ssr                https://nuxtjs.org/docs/2.x/configuration-glossary/configuration-ssr 302!
 https://go.nuxtjs.dev/config-hooks              https://nuxtjs.org/docs/2.x/configuration-glossary/configuration-hooks 302!
 https://go.nuxtjs.dev/ssr-mode                  https://nuxtjs.org/docs/2.x/configuration-glossary/configuration-ssr 302!
@@ -52,7 +52,7 @@ https://go.nuxtjs.dev/content-config            https://content.nuxtjs.org/confi
 https://go.nuxtjs.dev/config-axios              https://axios.nuxtjs.org/options 302!
 https://go.nuxtjs.dev/config-vuetify            https://github.com/nuxt-community/vuetify-module#options 302!
 
-https://www.isnuxt3ready.com                    https://isnuxt3ready.com 302!
+https://www.isnuxt3ready.com                    https://isnuxt3ready.com 302!****
 https://isnuxt3ready.com                        https://www.notion.so/nuxt/Is-nuxt3-ready-yet-db61026ca7924f3e8005d76abe5d33c8 302!
 
 # Tempory survey
