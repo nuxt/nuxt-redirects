@@ -55,9 +55,8 @@ https://go.nuxtjs.dev/config-vuetify            https://github.com/nuxt-communit
 https://www.isnuxt3ready.com                    https://isnuxt3ready.com 302!
 https://isnuxt3ready.com                        https://www.notion.so/nuxt/Is-nuxt3-ready-yet-db61026ca7924f3e8005d76abe5d33c8 302!
 
-# Tempory survey
+# Tempory
 https://survey.nuxtjs.org                       https://docs.google.com/forms/d/1D3PzA3j7WnYJDDH3KfS01xifkR5jbTMj9WVvw_GJ-ZM 302!
-
 https://go.nuxtjs.dev/stackblitz                https://stackblitz.com/github/nuxt/starter/tree/stackblitz 302!
 
 # Languages
@@ -68,3 +67,6 @@ https://fr.nuxtjs.org/* https://nuxtjs.org/fr/:splat 302!
 https://zh.nuxtjs.org/* https://nuxtjs.org/:splat 302!
 https://ja.nuxtjs.org/* https://nuxtjs.org/ja/:splat 302!
 https://es.nuxtjs.org/* https://nuxtjs.org/:splat 302!
+
+# Nuxt 3
+https://go.nuxtjs.dev/bridge-capi               https://v3.nuxtjs.org/getting-started/bridge-composition-api
