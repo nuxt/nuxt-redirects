@@ -77,3 +77,6 @@ https://github.nuxt.dev                         https://github.com/nuxt/framewor
 https://twitter.nuxt.dev                        https://twitter.com/nuxt_js 302!
 https://discord.nuxt.dev                        https://discord.gg/ps2h6QT 302!
 https://chat.nuxt.dev                           https://discord.gg/ps2h6QT 302!
+
+## Old *.nuxtjs.org to *.nuxt.dev
+https://tailwindcss.nuxtjs.org/*                  https://tailwindcss.nuxt.dev/:splat 302!
