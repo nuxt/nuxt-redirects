@@ -82,6 +82,6 @@ https://chat.nuxt.dev                           https://discord.gg/ps2h6QT 302!
 https://tailwindcss.nuxtjs.org/*                  https://tailwindcss.nuxt.dev/:splat 302!
 
 # Nuxt.com
-https://v3.nuxtjs.org                          https://nuxt.com 302!
-https://v3.nuxtjs.org/*                        https://nuxt.com/docs/:splat 302!
-https://modules.nuxtjs.org                     https://nuxt.com/modules
+https://v3.nuxtjs.org                          https://nuxt.com 301!
+https://v3.nuxtjs.org/*                        https://nuxt.com/docs/:splat 301!
+https://modules.nuxtjs.org                     https://nuxt.com/modules 301!
