@@ -78,6 +78,10 @@ https://twitter.nuxt.dev                        https://twitter.com/nuxt_js 302!
 https://discord.nuxt.dev                        https://discord.com/invite/nuxt 302!
 https://chat.nuxt.dev                           https://discord.com/invite/nuxt 302!
 
+# Nuxt 2 docs
+https://nuxtjs.org                              https://v2.nuxt.com 301!
+https://nuxtjs.org/*                            https://v2.nuxt.com/:splat 301!
+
 # Nuxt.com
 https://v3.nuxtjs.org                          https://nuxt.com 301!
 https://v3.nuxtjs.org/*                        https://nuxt.com/docs/:splat 301!
