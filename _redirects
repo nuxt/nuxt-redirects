@@ -81,6 +81,8 @@ https://chat.nuxt.dev                           https://discord.com/invite/nuxt 
 # Nuxt 2 docs
 https://nuxtjs.org                              https://v2.nuxt.com 301!
 https://nuxtjs.org/*                            https://v2.nuxt.com/:splat 301!
+https://www.nuxtjs.org                          https://v2.nuxt.com 301!
+https://www.nuxtjs.org/*                        https://v2.nuxt.com/:splat 301!
 
 # Nuxt.com
 https://v3.nuxtjs.org                          https://nuxt.com 301!
