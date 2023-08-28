@@ -89,4 +89,8 @@ https://v3.nuxtjs.org                          https://nuxt.com 301!
 https://v3.nuxtjs.org/*                        https://nuxt.com/docs/:splat 301!
 https://modules.nuxtjs.org                     https://nuxt.com/modules 301!
 
+# Nuxt UI
 https://components.ui.nuxtjs.org/              https://ui.nuxtlabs.com 301!
+
+# Nuxt Image
+https://image.nuxtjs.org/* https://image.nuxt.com/:splat 301!
