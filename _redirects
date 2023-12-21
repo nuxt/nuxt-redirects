@@ -94,3 +94,4 @@ https://components.ui.nuxtjs.org/              https://ui.nuxtlabs.com 301!
 
 # Nuxt Image
 https://image.nuxtjs.org/* https://image.nuxt.com/:splat 301!
+https://v1.image.nuxtjs.org/* https://image.nuxt.com 301!
